@@ -7,3 +7,4 @@ playable link: https://afraidat27.netlify.app/
 
 band site: https://desvious-order.vercel.app/
 
+<img src="afraidat27.png">
